@@ -44,7 +44,6 @@
         "use_brotli": true,
         "static_files_cache_time": -1,
         "idle_connection_timeout": 60,
-        "server_header_field": "drogon-cloud/1.0.0",
         "enable_server_header": true,
         "enable_date_header": true,
         "keepalive_requests": 0,
