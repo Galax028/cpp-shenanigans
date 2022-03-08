@@ -9,4 +9,4 @@ std::array<std::string, 9> ask_player(std::array<std::string, 9> game_board,
                                       std::string player);
 std::string check_win(std::array<std::string, 9> game_board);
 
-#endif // TICTACTOE_H
+#endif  // TICTACTOE_H
